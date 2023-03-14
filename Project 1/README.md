@@ -8,7 +8,11 @@ You are a data analyst at a crowdfunding site. For the next quarter, your compan
 
 Historic crowdfunding donations
 "category" - "Sports", "Fashion", "Technology", etc.
+
 "device" - the type of device used.
+
 "gender" - gender of the user.
+
 "age range" - one of five age brackets.
+
 "amount" - how much the user donated in Euros.
