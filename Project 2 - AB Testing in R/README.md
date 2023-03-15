@@ -42,3 +42,8 @@ id is a personal identifier of the customers
 
 ### Task - 8
 **Calculate the standard deviation of the `Dollars` spent in A/B period of the `New` group and use `power.t.test()` to calculate the necessary sample size to get statistical significant results on the `p = 0.05` signficiance level assuming `power = 0.8` (and equal variances).**
+
+### Task - 9 
+**Finally, let's run a linear regression approach where we regress `Treated`, `Group`, `as.factor(Month)` on `Dollars`.
+Let's correct the standard error for the fact that we observe some clients multiple times.** 
+
