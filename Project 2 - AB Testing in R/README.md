@@ -39,3 +39,6 @@ id is a personal identifier of the customers
 
 ### Task - 7
 **But we could also compare only `New` before and after implementing the A/B test. Let's do that!!**
+
+### Task - 8
+**Calculate the standard deviation of the `Dollars` spent in A/B period of the `New` group and use `power.t.test()` to calculate the necessary sample size to get statistical significant results on the `p = 0.05` signficiance level assuming `power = 0.8` (and equal variances).**
