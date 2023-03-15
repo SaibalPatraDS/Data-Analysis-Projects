@@ -8,15 +8,15 @@
 ### Task -1 
 **Load the experiment_data.csv via read_csv and look at some random rows.**
 
-Month shows the time dimension ranging from July 2022 to January 2023.
+`Month` shows the time dimension ranging from July 2022 to January 2023.
 
-Group indicates whether a customer is in the treatment group or not
+`Group` indicates whether a customer is in the treatment group or not
 
-Treated is always 0 for the control (Existing) group as well as for the A group before October (prior to implementing the experiment).
+`Treated` is always 0 for the control (Existing) group as well as for the A group before October (prior to implementing the experiment).
 
-Dollars are the $ spent by our customers
+`Dollars` are the $ spent by our customers
 
-id is a personal identifier of the customers
+`id` is a personal identifier of the customers
 
 
 ### Task - 2
